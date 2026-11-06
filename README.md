@@ -44,13 +44,9 @@ The current [`Projector-Based_Writing_System.py`](Projector-Based_Writing_System
 python3 -m pip install opencv-python numpy
 ```
 
-Run the program from the project directory so that `Zeiten.txt` is created there:
-
 ```bash
 python3 Projector-Based_Writing_System.py
 ```
-
-The accompanying [project report](T_3200_TEL20NT_Hepp_Nils_Thomas.pdf) describes the design, calibration method, optical filter, and performance tests.
 
 ## Performance and Limitations
 
